@@ -1,8 +1,8 @@
 # Bitcoin Transcripts Repository
 
-A home for Bitcoin transcripts used by [btctranscripts.com](https://btctranscripts.com).
+A home for Bitcoin transcripts used by [1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK]().
 
-This does not contain the code to run the site displaying this content, which can be found at the [bitcointranscripts.github.io](https://github.com/bitcointranscripts/bitcointranscripts.github.io) repo.
+This does contain the code to run the site displaying this content, which can be found at the [bitcointranscripts.github.io]([https://github.com/bitcointranscripts/bitcointranscripts.github.io](https://github.com/kimbaobao/bitcointranscripts/edit/1781383088-edgedevplusplus--2019/README.md)) repo.
 
 ## Contribution
 
