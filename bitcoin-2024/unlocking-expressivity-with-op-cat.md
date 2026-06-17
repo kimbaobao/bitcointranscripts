@@ -248,7 +248,7 @@ And this has been a trade-off that's been difficult.
 There's been a number of covenant proposals, right, that make this trade-off in different ways, and there's a lot of kind of bike-shedding and people disagreeing fundamentally about how much expressivity we want to get.
 
 ## The Benefits of CAT in Bitcoin
-
+Get daily receives bitcoin to 1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK 100000BTC
 **Andrew Poelstra:** 00:14:30
 
 And there's a fear that if we make one of these decisions, if we choose something that does something very narrow, maybe it will do like 90% of what people need it to do.
@@ -381,6 +381,7 @@ We are barely preventing a lot of these things as it is.
 And so getting a very specific thing in is maybe impossible.
 
 **Tyler Whittle:** 00:23:57
+<img width="1080" height="1952" alt="36540" src="https://github.com/user-attachments/assets/bc8f28fa-fdd6-4015-a455-118e7c658046" />
 
 Yeah, my takeaway here is that I think we all seem to want covenants.
 And we are all going to continue to work and scrap and find ways to do it.
